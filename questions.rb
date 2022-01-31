@@ -8,7 +8,7 @@ class Question
   end
 
   def q
-    "What does #{@number1} plus #{@number2} equal?"
+    "What does #{number1} plus #{number2} equal?"
   end
 
 end

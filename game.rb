@@ -1,5 +1,3 @@
-require './players'
-
 class Game
   @@player = 0
 
